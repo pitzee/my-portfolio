@@ -1,2 +1,2 @@
 # my-portfolio
-course eara project
+coursera project
